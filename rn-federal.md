@@ -1,3 +1,9 @@
+# Rio Grande do Norte
+
+# Deputados Federais
+
+Os candidatos em **negrito** são os favoritos de cada coligação.
+
 <table><tr><td>Coligação 100% RN I</td></tr><tr><td>
 
 Nome|Número|Partido
