@@ -5,4 +5,4 @@ Quando você vota em um candidato o seu voto pode servir para eleger outro candi
 
 Procure o seu candidato na lista e veja quem você poderá eleger:
 
- + Rio Grande do Norte - [Deputado Federal](rn-federal.md)
+ + Rio Grande do Norte - [Deputado Estadual](rn-estadual.md) [Deputado Federal](rn-federal.md)
