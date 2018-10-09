@@ -4,7 +4,7 @@
 
 Os candidatos em **negrito** são os favoritos de cada coligação.
 
-Procure seu candidato na lista e veja quais são os favaritos da coligação ou partido que você ajudará a eleger.
+Procure seu candidato na lista e veja quais são os favoritos da coligação ou partido que você ajudará a eleger.
 
 <table><tr><td>Coligação 100% RN II</td></tr><tr><td>
 
